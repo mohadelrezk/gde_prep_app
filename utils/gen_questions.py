@@ -392,8 +392,6 @@ def generate_questions(target_count=1300):
 
     return questions
 
-    return questions
-
 if __name__ == "__main__":
     final_questions = generate_questions(1300)
     with open('data/questions.json', 'w') as f:
