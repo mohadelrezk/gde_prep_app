@@ -1,6 +1,6 @@
-# Google Data Engineering Prep App
+# Data Engineering Knowledgebase
 
-A Streamlit web application designed to help users prepare for Google Data Engineering interviews.
+A Streamlit web application designed to help users prepare for data engineering interviews.
 
 ## Prerequisites
 
@@ -79,7 +79,7 @@ Open your browser to [http://localhost:8501](http://localhost:8501) to verify th
 
 ## Screenshots
 
-Below are example screenshots of the application. Replace the placeholder images in `screenshots/` with real captures when available.
+Below are example screenshots of the application.
 
 ### Dashboard
 
