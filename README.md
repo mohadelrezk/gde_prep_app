@@ -74,3 +74,22 @@ streamlit run app.py
 ## Usage
 
 Open your browser to [http://localhost:8501](http://localhost:8501) to verify the application is running.
+
+---
+
+## Screenshots
+
+Below are example screenshots of the application. Replace the placeholder images in `screenshots/` with real captures when available.
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Quiz Interface
+
+![Quiz](screenshots/quiz.png)
+
+### Resources Page
+
+![Resources](screenshots/resources.png)
+
