@@ -2,7 +2,7 @@ import streamlit as st
 from utils.styles import apply_custom_styles
 
 st.set_page_config(
-    page_title="GDE Prep | Google Data Engineering",
+    page_title="Knowledgebase DE | Data Engineering",
     page_icon="☁️",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -11,10 +11,10 @@ st.set_page_config(
 # Apply global styles
 apply_custom_styles()
 
-st.title("Google Data Engineer Interview Prep")
+st.title("Data Engineering Knowledgebase")
 st.markdown("""
 ### Welcome to your study companion! 
-Master the concepts for the Google Professional Data Engineer exam.
+Master the concepts for data engineering interviews.
 
 #### 🚀 Start Here
 Select a module from the sidebar to begin:

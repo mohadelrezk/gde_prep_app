@@ -1,4 +1,4 @@
-# Google Data Engineering Interview Resources
+# Data Engineering Interview Resources
 
 A compilation of resources used to gather and verify interview questions, ranging from standard platforms to niche engineering blogs and forums.
 
